@@ -10,5 +10,3 @@ La estructura de las carpetas de este repositorio es la misma que hemos visto en
 - Lista de componentes (BOM) para cargar en la web de JLCPCB, la lista que hemos generado en el vídeo anterior: CURSO_PCB_DRONE_BOM_JLCPCB.xlsx
 - Lista con los componentes que tendremos que comprar y montar en el PCB nosotros mismos (antena SMA, conector de batería XT60...): CURSO_PCB_DRONE_BOM_extra.xlsx
 - Lista que incluye los componentes necesarios para montar el drone (motores, ESC, mando RC, frame...): CURSO_PCB_DRONE_BOM_drone.xlsx
-
-Adjunto también enlace al reposito del Software para cargar en este versión del PCB: https://github.com/ArduProject/SW_PCB_C8
