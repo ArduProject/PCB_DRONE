@@ -2,7 +2,7 @@
 
 ![CURSO_PCB_DRONE_C8](https://user-images.githubusercontent.com/46316984/147909668-d5800446-545d-4e27-b657-fd3ca0afd38e.png)
 
-En este repositorio encontrareis los archivos de fabricación y las listas de montaje del PCB con STM32F103**C8** que hemos visto en el curso. Enlace al curso: https://www.udemy.com/course/draft/4399578/?referralCode=FD3F1CBF871EDFD84B6F
+En este repositorio encontrareis los archivos de fabricación y las listas de montaje del PCB con STM32F103**C8** que hemos visto en el curso. Enlace al curso: 
 
 La estructura de las carpetas de este repositorio es la misma que hemos visto en el curso: una carpeta GERBER con los archivos de fabricación del PCB, y una carpeta MONTAJE con las listas de componentes y el archivo de colocación de huellas (CURSO_PCB_DRONE-all-pos.xlsx). La única diferencia con el curso es que al descargar el repositorio, dentro de la carpeta MONTAJE encontrareis tres listas en vez de una:
 
