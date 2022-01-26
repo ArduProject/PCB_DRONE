@@ -1,0 +1,21 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.6)-1*
+G04 #@! TF.CreationDate,2022-01-03T12:19:35+01:00*
+G04 #@! TF.ProjectId,CURSO_PCB_DRONE,43555253-4f5f-4504-9342-5f44524f4e45,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Paste,Bot*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.6)-1) date 2022-01-03 12:19:35*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10O,1.100000X2.400000*%
+G04 APERTURE END LIST*
+D10*
+X135955000Y-67310000D03*
+X141605000Y-67310000D03*
+X130845000Y-67360000D03*
+X125195000Y-67360000D03*
+M02*
